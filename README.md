@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gonotion
 - 👀 I’m interested in Web Development, Notion
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Wordpress and Notion
 - 💞️ I’m looking to collaborate on Notion
 - 📫 How to reach me gonotiongo@gmail.com
 
